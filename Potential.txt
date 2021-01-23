@@ -1,0 +1,8 @@
+
+lägg till så du har en "meny" så att du kan 
+ladda in saker du har gjort och göra ett 
+"crop-mode" där du kan rama in rutor och spara dem som
+du sen kan listra in från menyn
+
+
+ändra storlek runtime i menyn
